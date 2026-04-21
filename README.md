@@ -15,15 +15,10 @@ Laragon
 
 Fitur Aplikasi:
 Tambah Data Lagu (Create)
-Menambahkan data lagu baru ke dalam database.
 Tampilkan Data Lagu (Read)
-Menampilkan seluruh data lagu dalam bentuk tabel.
 Detail Lagu (Read Detail)
-Menampilkan detail lengkap dari satu lagu.
 Edit Data Lagu (Update)
-Mengubah data lagu yang sudah ada.
 Hapus Data Lagu (Delete)
-Menghapus data lagu dari database.
 
 Cara Menjalankan Project:
 1. Clone / Download Project
