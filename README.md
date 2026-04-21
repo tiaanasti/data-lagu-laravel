@@ -1,8 +1,7 @@
-Aplikasi CRUD Data Lagu (Laravel 12)
+Aplikasi CRUD Data Lagu
 
 Deskripsi:
 Aplikasi ini merupakan sistem sederhana berbasis web yang dibuat menggunakan Laravel 12 untuk mengelola data lagu.
-Fitur utama dalam aplikasi ini adalah CRUD (Create, Read, Update, Delete) yang memungkinkan pengguna untuk menambah, melihat, mengubah, dan menghapus data lagu.
 Aplikasi ini dibuat sebagai tugas kuliah untuk memahami konsep dasar framework Laravel serta implementasi database MySQL.
 
 Teknologi yang digunakan: 
